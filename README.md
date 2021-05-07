@@ -1,2 +1,2 @@
-# Data Analytics on calculating Length of Stay in Hospital
+# Data Analytics on predicting Length of Stay in Hospital
 
